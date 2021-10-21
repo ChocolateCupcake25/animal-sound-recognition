@@ -1,0 +1,8 @@
+0 Background Noise
+1 Cat
+2 Horse
+3 dog
+4 fox
+5 goat
+6 mouse
+7 wolf
